@@ -30,3 +30,7 @@ I am Nagendra, a passionate coder 🌟 and tech enthusiast 🚀! I love building
   <img src="https://media.giphy.com/media/3o7TKsQ8kPrdF3b5zC/giphy.gif" alt="Coding" width="300"/>
 </div>
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ttNagendra/ttNagendra/main/spiderman.png")
+    </div>
+
