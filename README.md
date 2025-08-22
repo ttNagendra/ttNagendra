@@ -15,6 +15,10 @@ I am Nagendra, a passionate coder 🌟 and tech enthusiast 🚀! I love building
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-Intermediate-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue)
+![React.js](https://img.shields.io/badge/React-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node-Intermediate-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+![SQL(Lite)](https://img.shields.io/badge/SQL-Intermediate-black)
 
 ## Tools & Websites I Use 🛠️:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Code_Editor-blue)
