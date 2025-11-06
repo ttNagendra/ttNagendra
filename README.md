@@ -62,17 +62,6 @@ I enjoy working with modern technologies, solving problems, and learning new thi
 ✅ **Coffee Shop Landing Page** – Modern UI with hover effects  
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ttNagendra&show_icons=true&theme=tokyonight" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttNagendra&layout=compact&theme=tokyonight" height="165" />
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
