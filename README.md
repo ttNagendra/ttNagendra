@@ -1,76 +1,57 @@
-<h1 align="center">👋 Hi, I'm Todkar Nagendra</h1>
-<p align="center">Full-Stack Web Developer • Python Developer • Tech Enthusiast</p>
+# [cite_start]Hi there, I'm Todkar Nagendra 👋 [cite: 15]
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ttNagendra&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+### 🚀 Full Stack Developer | AI Enthusiast | [cite_start]MERN Stack Specialist [cite: 18]
 
----
-
-## 🚀 About Me
-I am a passionate developer who loves building responsive, clean, and functional websites.  
-I enjoy working with modern technologies, solving problems, and learning new things every day.
+[cite_start]Ambitious Full Stack Developer with a deep foundation in the **MERN stack** and **Python**[cite: 18, 22]. [cite_start]I am dedicated to building SEO-friendly, accessible web solutions and exploring the frontiers of **Generative AI**[cite: 20, 56].
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Toolbox
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-Basic-red)
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React.js](https://img.shields.io/badge/React.js-blue)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-black)
-
-### **Databases**
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
-![Chrome](https://img.shields.io/badge/Chrome-yellow)
-![NPM](https://img.shields.io/badge/NPM-red)
-![Vite](https://img.shields.io/badge/Vite-purple)
-
-### **Communication**
-![Telugu](https://img.shields.io/badge/Telugu-green)
-![Hindi](https://img.shields.io/badge/Hindi-orange)
-![English](https://img.shields.io/badge/English-blue)
-
-### **Concepts**
-- Data Structures & Algorithms  
-- UI/UX Basics
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, Java, JavaScript (ES6+) [cite: 22, 23] |
+| **Frontend** | [cite_start]React.js, Next.js 14, HTML5, CSS3, Tailwind CSS, Bootstrap [cite: 23, 36, 46] |
+| **Backend** | [cite_start]Node.js, Express.js, Flask [cite: 24, 30] |
+| **Databases** | [cite_start]MongoDB, SQL (SQLite) [cite: 25] |
+| **AI/ML** | [cite_start]Gemini API, XGBoost, Logistic Regression, Streamlit [cite: 36, 42, 43] |
+| **Tools** | [cite_start]Git, GitHub, VS Code, Postman, NPM [cite: 26] |
 
 ---
 
-## 📌 Featured Projects
+### 🌟 Featured Projects
 
-✅ **Portfolio Website** – Responsive personal website  
-✅ **Job Website** – Online job listing and apply system  
-✅ **Game Website** – Interactive JS game and UI  
-✅ **Spotify Python Project** – Playlist viewer & user tools  
-✅ **Face Mask Detection** – CNN-based ML project  
-✅ **Coffee Shop Landing Page** – Modern UI with hover effects  
+#### [cite_start]🤖 [Nexus AI Assistant](https://github.com/ttNagendra/Nexus_AI_Assistant) [cite: 35]
+* [cite_start]**Stack:** Next.js 14, Tailwind CSS, Gemini API, NextAuth[cite: 36].
+* [cite_start]Built a **"Creative Studio"** for multi-modal text, voice, and image generation[cite: 37].
+* [cite_start]Features a glassmorphism UI and real-time audio monitoring for hands-free interaction[cite: 38, 40].
+
+#### 💼 [Talenty | [cite_start]AI-Powered Job Portal](https://github.com/ttNagendra/Talenty) [cite: 29]
+* [cite_start]**Stack:** Flask, JavaScript, SQLite[cite: 30].
+* [cite_start]Engineered a full-stack MVP with dual-user dashboards and **AI resume analysis**[cite: 31, 32].
+* [cite_start]Implemented skill-based matching using a complex 10-table relational schema[cite: 33].
+
+#### [cite_start]🌾 [ML Crop Prediction System](https://github.com/ttNagendra/Crop-Prediction) [cite: 41]
+* [cite_start]**Stack:** Python, Streamlit, ML (XGBoost)[cite: 42, 43].
+* [cite_start]Developed models predicting optimal crops with **95%+ accuracy** based on environmental data[cite: 43].
+
+#### 🛍️ [DMD Clothing | [cite_start]E-commerce](https://github.com/ttNagendra/DMD-Clothing) [cite: 45]
+* [cite_start]**Stack:** React, Vite, Tailwind CSS[cite: 46].
+* [cite_start]Achieved **100/100 performance scores** on Lighthouse with near-instant load times[cite: 47].
 
 ---
+
+### 🏆 Achievements & Certifications
+
+* [cite_start]**BCG X Generative AI Job Simulation:** Completed tasks in data extraction and AI financial chatbot development[cite: 55, 56].
+* [cite_start]**IBM:** Certified in Machine Learning with Python[cite: 53].
+* [cite_start]**HarvardX:** CS50's Introduction to Programming with Python[cite: 54].
+* [cite_start]**Hackathon Winner:** Bagged **3rd Prize** in the DOZO Hackathon and a college-wide Web Development Hackathon[cite: 57, 59].
+
 ---
 
-## 🌐 Connect With Me
+### 📬 Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/todkar-nagendra-33570125b/  
-- 🔗 **GitHub:** https://github.com/ttNagendra  
-- 📧 **Email:** nagendrat1533@gmail.com  
-- 📱 **Phone:** 8688563229  
-
----
-
-<p align="center">⚡ Always learning. Always building. Always improving.</p>
+* [cite_start]📧 **Email:** nagendrat1533@gmail.com [cite: 16]
+* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/your-profile) [cite: 16]
+* 📍 Kurnool, Andhra Pradesh
