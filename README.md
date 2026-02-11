@@ -1,57 +1,59 @@
-# [cite_start]Hi there, I'm Todkar Nagendra 👋 [cite: 15]
+# <p align="center">Hi, I'm Todkar Nagendra! 🌟</p>
 
-### 🚀 Full Stack Developer | AI Enthusiast | [cite_start]MERN Stack Specialist [cite: 18]
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nagendrat1533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ttNagendra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
-[cite_start]Ambitious Full Stack Developer with a deep foundation in the **MERN stack** and **Python**[cite: 18, 22]. [cite_start]I am dedicated to building SEO-friendly, accessible web solutions and exploring the frontiers of **Generative AI**[cite: 20, 56].
-
----
-
-### 🛠️ Technical Toolbox
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, Java, JavaScript (ES6+) [cite: 22, 23] |
-| **Frontend** | [cite_start]React.js, Next.js 14, HTML5, CSS3, Tailwind CSS, Bootstrap [cite: 23, 36, 46] |
-| **Backend** | [cite_start]Node.js, Express.js, Flask [cite: 24, 30] |
-| **Databases** | [cite_start]MongoDB, SQL (SQLite) [cite: 25] |
-| **AI/ML** | [cite_start]Gemini API, XGBoost, Logistic Regression, Streamlit [cite: 36, 42, 43] |
-| **Tools** | [cite_start]Git, GitHub, VS Code, Postman, NPM [cite: 26] |
+<p align="center">
+  💻 <b><a href="#projects">Projects</a></b> / 📄 <b><a href="#education">Resume</a></b> / 🌐 <b><a href="#connect">Website</a></b>
+</p>
 
 ---
 
-### 🌟 Featured Projects
+### About Me 👋
 
-#### [cite_start]🤖 [Nexus AI Assistant](https://github.com/ttNagendra/Nexus_AI_Assistant) [cite: 35]
-* [cite_start]**Stack:** Next.js 14, Tailwind CSS, Gemini API, NextAuth[cite: 36].
-* [cite_start]Built a **"Creative Studio"** for multi-modal text, voice, and image generation[cite: 37].
-* [cite_start]Features a glassmorphism UI and real-time audio monitoring for hands-free interaction[cite: 38, 40].
+Hey there! [cite_start]😊 My name is **Todkar Nagendra**[cite: 15]. [cite_start]I'm an ambitious **Full Stack Developer** [cite: 18] currently studying at **G. [cite_start]Pullaiah College of Engineering and Technology**[cite: 50]. [cite_start]I have a deep foundation in the **MERN stack** [cite: 18] [cite_start]and I'm passionate about building end-to-end applications that are SEO-friendly and accessible[cite: 19, 20].
 
-#### 💼 [Talenty | [cite_start]AI-Powered Job Portal](https://github.com/ttNagendra/Talenty) [cite: 29]
-* [cite_start]**Stack:** Flask, JavaScript, SQLite[cite: 30].
-* [cite_start]Engineered a full-stack MVP with dual-user dashboards and **AI resume analysis**[cite: 31, 32].
-* [cite_start]Implemented skill-based matching using a complex 10-table relational schema[cite: 33].
-
-#### [cite_start]🌾 [ML Crop Prediction System](https://github.com/ttNagendra/Crop-Prediction) [cite: 41]
-* [cite_start]**Stack:** Python, Streamlit, ML (XGBoost)[cite: 42, 43].
-* [cite_start]Developed models predicting optimal crops with **95%+ accuracy** based on environmental data[cite: 43].
-
-#### 🛍️ [DMD Clothing | [cite_start]E-commerce](https://github.com/ttNagendra/DMD-Clothing) [cite: 45]
-* [cite_start]**Stack:** React, Vite, Tailwind CSS[cite: 46].
-* [cite_start]Achieved **100/100 performance scores** on Lighthouse with near-instant load times[cite: 47].
+[cite_start]I am a dedicated learner, recently completing a **Generative AI Job Simulation** with **BCGX** [cite: 56] [cite_start]and earning certifications from **IBM** and **HarvardX**[cite: 53, 54]. I love collaborative problem-solving and am always looking for cool open-source projects to contribute to!
 
 ---
 
-### 🏆 Achievements & Certifications
+### Technologies I'm Mastering 📚
 
-* [cite_start]**BCG X Generative AI Job Simulation:** Completed tasks in data extraction and AI financial chatbot development[cite: 55, 56].
-* [cite_start]**IBM:** Certified in Machine Learning with Python[cite: 53].
-* [cite_start]**HarvardX:** CS50's Introduction to Programming with Python[cite: 54].
-* [cite_start]**Hackathon Winner:** Bagged **3rd Prize** in the DOZO Hackathon and a college-wide Web Development Hackathon[cite: 57, 59].
+**Programming Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Front-end:**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Back-end & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodesodotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+**Editors & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ---
-
-### 📬 Connect with Me
-
-* [cite_start]📧 **Email:** nagendrat1533@gmail.com [cite: 16]
-* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/your-profile) [cite: 16]
-* 📍 Kurnool, Andhra Pradesh
+<p align="center">⭐ From @ttNagendra</p>
