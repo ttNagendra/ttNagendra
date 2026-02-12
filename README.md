@@ -1,51 +1,21 @@
-<p align="center">Hi, I'm Todkar Nagendra! 🌟</p>
-<p align="center"> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:nagendrat1533@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ttNagendra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> </p>
+# 💫 About Me:
+🚀 Nagendra's GitHub Profile README<br>🔭 I’m currently working on<br><br>Refining Talenty, an AI-powered job portal that features automated resume analysis and mock interview modules.<br><br><br>Developing Nexus AI Assistant, a multi-modal "Creative Studio" built with Next.js 14 and the Gemini API for text, voice, and image generation.<br><br>👯 I’m looking to collaborate on<br><br>Open-source MERN stack projects or innovative Generative AI applications.<br><br><br>Scalable web solutions that prioritize SEO and accessibility.<br><br><br>🤝 I’m looking for help with<br><br>Advancing my skills in UI/UX design and high-end animations using tools like Framer Motion.<br><br><br>Mastering complex Data Structures and Algorithms for competitive programming.<br><br>🌱 I’m currently learning<br><br>Advanced Generative AI techniques, building on my IBM and HarvardX certifications.<br><br><br>New frameworks for building lightweight, high-performance storefronts like Vite.<br><br>💬 Ask me about<br><br><br>Full Stack Development: Building end-to-end applications with MongoDB, Express, React, and Node.js.<br><br><br><br>Machine Learning: Predicting environmental outcomes with models like XGBoost and Logistic Regression<br><br><br>Python & Java: Solving problems and building scripts with my core programming languages.<br><br><br>⚡ Fun fact<br><br>I am a multi-time hackathon winner, having secured 3rd place in the DOZO Hackathon, a college Web Development Hackathon, and the Code Crack competition
 
-<p align="center"> 💻 <b><a href="#featured-projects">Projects</a></b> / 🎓 <b><a href="#education">Education</a></b> / 🏆 <b><a href="#achievements--certifications">Achievements</a></b> </p>
 
-About Me 👋
-Ambitious Full Stack Developer with a deep foundation in the MERN stack and Python. I am dedicated to building SEO-friendly, accessible web solutions and exploring the frontiers of Generative AI. Currently pursuing my Bachelor of Technology at G. Pullaiah College of Engineering and Technology.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Todkar Nagendra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagendrat1533@gmail.com) 
 
-Technologies I'm Mastering 📚
-Programming & Backend:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ttNagendra&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ttNagendra&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttNagendra&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodesodotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Front-end & UI:
+---
+[![](https://visitcount.itsvg.in/api?id=ttNagendra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> </p>
-
-AI/ML & Databases:
-
-<p> <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> </p>
-
-🌟 Featured Projects
-🤖 Nexus AI Assistant
-Stack: Next.js 14, Tailwind CSS, Gemini API, NextAuth.
-
-Built a "Creative Studio" for multi-modal text, voice, and image generation.
-
-Features a glassmorphism UI and real-time audio monitoring for hands-free interaction.
-
-💼 Talenty | AI-Powered Job Portal
-Stack: Flask, JavaScript, SQLite.
-
-Engineered a full-stack MVP with dual-user dashboards and AI resume analysis.
-
-Implemented skill-based matching using a complex 10-table relational schema.
-
-🌾 ML Crop Prediction System
-Stack: Python, Streamlit, ML (XGBoost).
-
-Developed models predicting optimal crops with 95%+ accuracy based on environmental data.
-
-🏆 Achievements & Certifications
-BCG X Generative AI Job Simulation: Completed tasks in data extraction and AI financial chatbot development.
-
-IBM: Certified in Machine Learning with Python.
-
-HarvardX: CS50's Introduction to Programming with Python.
-
-Hackathon Winner: Bagged 3rd Prize in the DOZO Hackathon and the college-wide Code Crack competition.
-
-<p align="center">⭐ From @ttNagendra</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
